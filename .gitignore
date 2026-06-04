@@ -1,0 +1,22 @@
+# Virtual environment
+venv_new/
+venv310/
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
