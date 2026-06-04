@@ -13,7 +13,7 @@ The application allows users to upload a dermoscopic skin image and receive an i
 Add your deployed application link here:
 
 ```text
-https://your-app-link.onrender.com
+https://vaibhavipatil0241-skin-cancer-prediction-using-de-appapp-2bgika.streamlit.app/
 ```
 
 ---
